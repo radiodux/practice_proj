@@ -247,7 +247,7 @@ input {
 	bottom: 0;
 	padding: 0;
 	text-shadow: none;
-	top: 50%;
+	top: 40%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 }
@@ -272,8 +272,8 @@ input {
 }
 
 .carousel-caption img {
-    width: 100vw;
-    margin-top: -230px;
+    width: 90vw;
+    margin-top: -240px;
     margin-right: -4px;
 }
 
